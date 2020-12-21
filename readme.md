@@ -1,6 +1,6 @@
 # Evidence Localization for Pathology Images using Weakly Supervised Learning
 
-This is a Pytorch implementation of CELNet described in the paper "Edge-variational Graph Convolutional Networks for Uncertainty-aware Disease Prediction" by Yongxiang Huang and Albert C.S. Chung.  
+This is a Pytorch implementation of CELNet described in the paper "Evidence Localization for Pathology Images using Weakly Supervised Learning" by Yongxiang Huang and Albert C.S. Chung.  
 
 ## Prerequisites
 - `Python 3.6+`
